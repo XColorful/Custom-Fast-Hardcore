@@ -133,10 +133,10 @@
       "stayTicks": 80,
       "fadeOutTicks": 20,
       "sendTitles": true,
-      "title": "{\"bold\":true,\"text\":\"§6Game Start\"}",
-      "subtitle": "{\"color\":\"aqua\",\"text\":\"Custom Fast Hardcore\"}",
+      "title": "{\"text\":\"§6Game Start\",\"bold\":true}",
+      "subtitle": "{\"text\":\"Custom Fast Hardcore\",\"color\":\"aqua\"}",
       "sendActionBar": true,
-      "actionBar": "{\"color\":\"green\",\"text\":\"Good luck\"}"
+      "actionBar": "{\"text\":\"Good luck\",\"color\":\"green\"}"
     },
     "zoneShape": {
       "zoneShapeType": "square",
@@ -208,13 +208,13 @@
             "lootType": "item",
             "item": "minecraft:wooden_axe",
             "count": 1,
-            "nbt": "{Enchantments:[{lvl:10s,id:\"minecraft:efficiency\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
+            "nbt": "{components:{\"minecraft:enchantments\":{levels:{\"minecraft:efficiency\":10,\"minecraft:unbreaking\":3}}}}"
           },
           {
             "lootType": "item",
             "item": "minecraft:iron_pickaxe",
             "count": 1,
-            "nbt": "{Enchantments:[{lvl:10s,id:\"minecraft:efficiency\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
+            "nbt": "{components:{\"minecraft:enchantments\":{levels:{\"minecraft:efficiency\":10,\"minecraft:unbreaking\":3}}}}"
           },
           {
             "lootType": "item",
@@ -512,8 +512,8 @@
       "stayTicks": 80,
       "fadeOutTicks": 20,
       "sendTitles": true,
-      "title": "{\"text\":\"\"}",
-      "subtitle": "{\"text\":\"§9Phase§b 2\"}",
+      "title": "\"\"",
+      "subtitle": "\"§9Phase§b 2\"",
       "sendActionBar": false
     },
     "zoneShape": {
@@ -853,8 +853,8 @@
       "stayTicks": 80,
       "fadeOutTicks": 20,
       "sendTitles": true,
-      "title": "{\"text\":\"\"}",
-      "subtitle": "{\"text\":\"§9Phase§b 3\"}",
+      "title": "\"\"",
+      "subtitle": "\"§9Phase§b 3\"",
       "sendActionBar": false
     },
     "zoneShape": {
@@ -1194,8 +1194,8 @@
       "stayTicks": 80,
       "fadeOutTicks": 20,
       "sendTitles": true,
-      "title": "{\"text\":\"\"}",
-      "subtitle": "{\"text\":\"§9Phase§b 4\"}",
+      "title": "\"\"",
+      "subtitle": "\"§9Phase§b 4\"",
       "sendActionBar": false
     },
     "zoneShape": {
@@ -1470,8 +1470,8 @@
       "stayTicks": 80,
       "fadeOutTicks": 20,
       "sendTitles": true,
-      "title": "{\"text\":\"\"}",
-      "subtitle": "{\"text\":\"§cFinal Phase\"}",
+      "title": "\"\"",
+      "subtitle": "\"§cFinal Phase\"",
       "sendActionBar": false
     },
     "zoneShape": {

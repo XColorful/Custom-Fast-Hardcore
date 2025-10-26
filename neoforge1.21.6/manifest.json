@@ -1,0 +1,139 @@
+{
+  "minecraft": {
+    "version": "1.21.6",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.6.20-beta",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "CFHC neoforge1.21.6",
+  "version": "0.4.5",
+  "author": "",
+  "files": [
+    {
+      "projectID": 915115,
+      "fileID": 6789399,
+      "required": true
+    },
+    {
+      "projectID": 1337167,
+      "fileID": 7090582,
+      "required": true
+    },
+    {
+      "projectID": 525480,
+      "fileID": 7025537,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 6808760,
+      "required": true
+    },
+    {
+      "projectID": 940057,
+      "fileID": 6727576,
+      "required": true
+    },
+    {
+      "projectID": 1367508,
+      "fileID": 7124130,
+      "required": true
+    },
+    {
+      "projectID": 220318,
+      "fileID": 6682351,
+      "required": true
+    },
+    {
+      "projectID": 1277855,
+      "fileID": 7151364,
+      "required": true
+    },
+    {
+      "projectID": 257814,
+      "fileID": 6700937,
+      "required": true
+    },
+    {
+      "projectID": 368293,
+      "fileID": 6713655,
+      "required": true
+    },
+    {
+      "projectID": 623908,
+      "fileID": 7091104,
+      "required": true
+    },
+    {
+      "projectID": 856996,
+      "fileID": 6675632,
+      "required": true
+    },
+    {
+      "projectID": 626761,
+      "fileID": 6140859,
+      "required": true
+    },
+    {
+      "projectID": 915324,
+      "fileID": 6792381,
+      "required": true
+    },
+    {
+      "projectID": 955399,
+      "fileID": 6700583,
+      "required": true
+    },
+    {
+      "projectID": 266890,
+      "fileID": 6700983,
+      "required": true
+    },
+    {
+      "projectID": 485681,
+      "fileID": 6677900,
+      "required": true
+    },
+    {
+      "projectID": 858542,
+      "fileID": 6898356,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 6665315,
+      "required": true
+    },
+    {
+      "projectID": 656977,
+      "fileID": 7110517,
+      "required": true
+    },
+    {
+      "projectID": 522351,
+      "fileID": 7022273,
+      "required": true
+    },
+    {
+      "projectID": 1367517,
+      "fileID": 7144681,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 7088174,
+      "required": true
+    },
+    {
+      "projectID": 936015,
+      "fileID": 6742538,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
