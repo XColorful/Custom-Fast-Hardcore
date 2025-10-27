@@ -37,19 +37,20 @@
 
 ### 大逃杀机制
 
-- Custom BattleRoyale by XiaoColorful
 - CBR addon by XiaoColorful
+- Custom BattleRoyale by XiaoColorful
 
 ### 世界生成
 
 - Better Villages by jtl_elisa, jtl_tom
 - Biomes O' Plenty by Forstride, TheAdubbz
+- ChoiceTheorem's Overhauled Village by ChoiceTheorem
 - Chunky by pop4959
 - Formations Overworld by SuperMartjin642
+- GlitchCore by TheAdubbz
 - MVS - Moog's Voyager Structures by finndog_123, olver___\_, havococcultist, TFA120
 - Repurposed Structures by telopathicgrunt
 - Towns and Towers by Biban_Auriu, Kubek
-- ChoiceTheorem's Overhauled Village by ChoiceTheorem
 
 ### 玩法扩展
 
@@ -65,5 +66,5 @@
 ### 优化模组
 
 - Embeddium by FiniteReality
-- Sodium by JellySquid
 - ModernFix by embeddedt
+- Sodium by JellySquid
