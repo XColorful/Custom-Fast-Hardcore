@@ -1,0 +1,288 @@
+[
+  {
+    "lootId": 1,
+    "name": "TNT bomb zone",
+    "color": "#FFFFFFAA",
+    "entry": {
+      "lootType": "entity",
+      "entity": "minecraft:tnt",
+      "count": 5,
+      "nbt": "",
+      "range": 0,
+      "attempts": 4
+    }
+  },
+  {
+    "lootId": 2,
+    "name": "Bonus zone",
+    "color": "#FFFFFFAA",
+    "entry": {
+      "lootType": "multi",
+      "entries": [
+        {
+          "lootType": "extra",
+          "countEmpty": false,
+          "keepCheck": true,
+          "check": {
+            "lootType": "random",
+            "chance": 0.1,
+            "entry": {
+              "lootType": "weight",
+              "entries": [
+                {
+                  "weight": 5.0,
+                  "entry": {
+                    "lootType": "entity",
+                    "entity": "minecraft:item",
+                    "count": 1,
+                    "nbt": "{Item:{components:{},count:1,id:\"minecraft:totem_of_undying\"}}",
+                    "range": 0,
+                    "attempts": 4
+                  }
+                },
+                {
+                  "weight": 5.0,
+                  "entry": {
+                    "lootType": "entity",
+                    "entity": "minecraft:item",
+                    "count": 1,
+                    "nbt": "{Item:{components:{\"minecraft:damage\":394,\"minecraft:enchantments\":{levels:{\"minecraft:protection\":5}}},count:1,id:\"minecraft:netherite_helmet\"}}",
+                    "range": 0,
+                    "attempts": 4
+                  }
+                },
+                {
+                  "weight": 5.0,
+                  "entry": {
+                    "lootType": "entity",
+                    "entity": "minecraft:item",
+                    "count": 1,
+                    "nbt": "{Item:{components:{\"minecraft:potion_contents\":{potion:\"minecraft:regeneration\"}},count:1,id:\"minecraft:potion\"}}",
+                    "range": 0,
+                    "attempts": 4
+                  }
+                },
+                {
+                  "weight": 15.0,
+                  "entry": {
+                    "lootType": "entity",
+                    "entity": "minecraft:item",
+                    "count": 1,
+                    "nbt": "{Item:{components:{},count:1,id:\"minecraft:golden_apple\"}}",
+                    "range": 0,
+                    "attempts": 4
+                  }
+                },
+                {
+                  "weight": 20.0,
+                  "entry": {
+                    "lootType": "entity",
+                    "entity": "minecraft:item",
+                    "count": 1,
+                    "nbt": "{Item:{components:{},count:1,id:\"minecraft:golden_carrot\"}}",
+                    "range": 0,
+                    "attempts": 4
+                  }
+                }
+              ]
+            }
+          },
+          "extra": {
+            "lootType": "multi",
+            "entries": [
+              {
+                "lootType": "message",
+                "onlyGamePlayer": true,
+                "sendPosition": true,
+                "message": "Rare loot generated",
+                "messageColor": "#FF0000"
+              },
+              {
+                "lootType": "entity",
+                "entity": "minecraft:vindicator",
+                "count": 1,
+                "nbt": "",
+                "range": 5,
+                "attempts": 4
+              },
+              {
+                "lootType": "entity",
+                "entity": "minecraft:ravager",
+                "count": 1,
+                "nbt": "",
+                "range": 5,
+                "attempts": 4
+              },
+              {
+                "lootType": "entity",
+                "entity": "minecraft:pillager",
+                "count": 1,
+                "nbt": "",
+                "range": 5,
+                "attempts": 4
+              },
+              {
+                "lootType": "entity",
+                "entity": "minecraft:item",
+                "count": 1,
+                "nbt": "{Item:{components:{},count:64,id:\"minecraft:purpur_block\"}}",
+                "range": 0,
+                "attempts": 4
+              }
+            ]
+          }
+        },
+        {
+          "lootType": "weight",
+          "entries": [
+            {
+              "weight": 5.0,
+              "entry": {
+                "lootType": "weight",
+                "entries": [
+                  {
+                    "weight": 10.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":354},count:1,id:\"minecraft:diamond_helmet\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  },
+                  {
+                    "weight": 6.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":519},count:1,id:\"minecraft:diamond_chestplate\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  },
+                  {
+                    "weight": 8.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":519},count:1,id:\"minecraft:diamond_chestplate\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  },
+                  {
+                    "weight": 12.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":486},count:1,id:\"minecraft:diamond_leggings\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "weight": 10.0,
+              "entry": {
+                "lootType": "weight",
+                "entries": [
+                  {
+                    "weight": 10.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":157},count:1,id:\"minecraft:iron_helmet\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  },
+                  {
+                    "weight": 6.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":237},count:1,id:\"minecraft:iron_chestplate\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  },
+                  {
+                    "weight": 8.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":237},count:1,id:\"minecraft:iron_chestplate\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  },
+                  {
+                    "weight": 12.0,
+                    "entry": {
+                      "lootType": "entity",
+                      "entity": "minecraft:item",
+                      "count": 1,
+                      "nbt": "{Item:{components:{\"minecraft:damage\":221},count:1,id:\"minecraft:iron_leggings\"}}",
+                      "range": 0,
+                      "attempts": 4
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "weight": 15.0,
+              "entry": {
+                "lootType": "entity",
+                "entity": "minecraft:item",
+                "count": 1,
+                "nbt": "{Item:{components:{},count:1,id:\"minecraft:diamond_sword\"}}",
+                "range": 0,
+                "attempts": 4
+              }
+            },
+            {
+              "weight": 10.0,
+              "entry": {
+                "lootType": "entity",
+                "entity": "minecraft:item",
+                "count": 1,
+                "nbt": "{Item:{components:{},count:1,id:\"minecraft:iron_sword\"}}",
+                "range": 0,
+                "attempts": 4
+              }
+            },
+            {
+              "weight": 15.0,
+              "entry": {
+                "lootType": "entity",
+                "entity": "minecraft:item",
+                "count": 1,
+                "nbt": "{Item:{components:{\"minecraft:potion_contents\":{potion:\"minecraft:healing\"}},count:1,id:\"minecraft:potion\"}}",
+                "range": 0,
+                "attempts": 4
+              }
+            }
+          ]
+        },
+        {
+          "lootType": "entity",
+          "entity": "minecraft:item",
+          "count": 1,
+          "nbt": "{Item:{components:{},count:64,id:\"minecraft:end_stone\"}}",
+          "range": 0,
+          "attempts": 4
+        }
+      ]
+    }
+  }
+]
