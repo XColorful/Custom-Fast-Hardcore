@@ -1,0 +1,1615 @@
+[
+  {
+    "lootId": 0,
+    "name": "CFHC common loot",
+    "color": "#FFFFFFAA",
+    "entry": {
+      "lootType": "repeat",
+      "min": 3,
+      "max": 6,
+      "entry": {
+        "lootType": "multi",
+        "entries": [
+          {
+            "lootType": "weight",
+            "entries": [
+              {
+                "weight": 5.0,
+                "entry": {
+                  "lootType": "weight",
+                  "entries": [
+                    {
+                      "weight": 5.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:blaze_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:magma_cube_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:ghast_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 10.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:nether_wart",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:glowstone_dust",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:blaze_powder",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:dragon_breath",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 35.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:tripwire_hook",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:stick",
+                              "count": 5,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:flint",
+                              "count": 5,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:string",
+                              "count": 5,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:feather",
+                              "count": 5,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 20.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:iron_nugget",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:gold_nugget",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:amethyst_shard",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:quartz",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:emerald",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "entry": {
+                  "lootType": "weight",
+                  "entries": [
+                    {
+                      "weight": 35.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "weight",
+                              "entries": [
+                                {
+                                  "weight": 10.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:golden_helmet",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":68}}"
+                                  }
+                                },
+                                {
+                                  "weight": 6.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:golden_chestplate",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":103}}"
+                                  }
+                                },
+                                {
+                                  "weight": 8.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:golden_leggings",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":96}}"
+                                  }
+                                },
+                                {
+                                  "weight": 12.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:golden_boots",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":82}}"
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "weight",
+                              "entries": [
+                                {
+                                  "weight": 10.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:chainmail_helmet",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":156}}"
+                                  }
+                                },
+                                {
+                                  "weight": 6.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:chainmail_chestplate",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":231}}"
+                                  }
+                                },
+                                {
+                                  "weight": 8.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:chainmail_leggings",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":216}}"
+                                  }
+                                },
+                                {
+                                  "weight": 12.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:chainmail_boots",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":186}}"
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "weight": 15.0,
+                            "entry": {
+                              "lootType": "weight",
+                              "entries": [
+                                {
+                                  "weight": 10.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:leather_helmet",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":46}}"
+                                  }
+                                },
+                                {
+                                  "weight": 6.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:leather_chestplate",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":71}}"
+                                  }
+                                },
+                                {
+                                  "weight": 8.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:leather_leggings",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":66}}"
+                                  }
+                                },
+                                {
+                                  "weight": 12.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:leather_boots",
+                                    "count": 1,
+                                    "nbt": "{components:{\"minecraft:damage\":56}}"
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "weight": 2.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:turtle_helmet",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:damage\":266}}"
+                            }
+                          },
+                          {
+                            "weight": 2.0,
+                            "entry": {
+                              "lootType": "weight",
+                              "entries": [
+                                {
+                                  "weight": 35.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:leather_horse_armor",
+                                    "count": 1,
+                                    "nbt": ""
+                                  }
+                                },
+                                {
+                                  "weight": 25.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:golden_horse_armor",
+                                    "count": 1,
+                                    "nbt": ""
+                                  }
+                                },
+                                {
+                                  "weight": 15.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:iron_horse_armor",
+                                    "count": 1,
+                                    "nbt": ""
+                                  }
+                                },
+                                {
+                                  "weight": 5.0,
+                                  "entry": {
+                                    "lootType": "item",
+                                    "item": "minecraft:diamond_horse_armor",
+                                    "count": 1,
+                                    "nbt": ""
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 8.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:snow_golem_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:iron_golem_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:vindicator_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:wither_skeleton_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:warden_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:soul_sand",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 15.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:lapis_lazuli",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:experience_bottle",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:book",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 3.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:elytra",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:damage\":402}}"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 25.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:saddle",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "entry": {
+                  "lootType": "weight",
+                  "entries": [
+                    {
+                      "weight": 10.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:oak_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:spruce_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:birch_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:jungle_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:acacia_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:dark_oak_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:mangrove_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:cherry_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:bamboo_boat",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 1.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:minecart",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 35.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:water_bucket",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:lava_bucket",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:powder_snow_bucket",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:fishing_rod",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:flint_and_steel",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:shears",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:brush",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:name_tag",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:lead",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:spyglass",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:carrot_on_a_stick",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 25.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:magma_block",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:lightning_rod",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:beacon",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:damaged_anvil",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:scaffolding",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:enchanting_table",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:end_rod",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:flower_pot",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 15.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:donkey_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:horse_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:mule_spawn_egg",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "entry": {
+                  "lootType": "weight",
+                  "entries": [
+                    {
+                      "weight": 45.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:oak_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:spruce_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:birch_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:jungle_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:acacia_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:dark_oak_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:mangrove_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:cherry_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:crimson_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:warped_planks",
+                              "count": 16,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 15.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:redstone_block",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:hopper",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:repeater",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:comparator",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:piston",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:sticky_piston",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:dispenser",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:dropper",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:observer",
+                              "count": 4,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 35.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:pointed_dripstone",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:glow_lichen",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:cobweb",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:slime_block",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:honey_block",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 25.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:snowball",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:egg",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:leather",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:scute",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:bowl",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:wheat",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:firework_star",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 5.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:skeleton_skull",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:wither_skeleton_skull",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:player_head",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:zombie_head",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:creeper_head",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:piglin_head",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:dragon_head",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:carved_pumpkin",
+                              "count": 1,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 15.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:sunflower",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:lilac",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:rose_bush",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:peony",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:pitcher_plant",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:large_fern",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:tall_grass",
+                              "count": 3,
+                              "nbt": ""
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 5.0,
+                      "entry": {
+                        "lootType": "multi",
+                        "entries": [
+                          {
+                            "lootType": "item",
+                            "item": "minecraft:jukebox",
+                            "count": 1,
+                            "nbt": ""
+                          },
+                          {
+                            "lootType": "weight",
+                            "entries": [
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_otherside",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_13",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_cat",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_blocks",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_chirp",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_far",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_mall",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_mellohi",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_stal",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_strad",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_ward",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_11",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_wait",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_5",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_pigstep",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_relic",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              },
+                              {
+                                "weight": 5.0,
+                                "entry": {
+                                  "lootType": "item",
+                                  "item": "minecraft:music_disc_",
+                                  "count": 1,
+                                  "nbt": ""
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "weight": 15.0,
+                      "entry": {
+                        "lootType": "weight",
+                        "entries": [
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:ponder_goat_horn\"}}"
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:sing_goat_horn\"}}"
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:seek_goat_horn\"}}"
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:feel_goat_horn\"}}"
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:admire_goat_horn\"}}"
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:call_goat_horn\"}}"
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:yearn_goat_horn\"}}"
+                            }
+                          },
+                          {
+                            "weight": 5.0,
+                            "entry": {
+                              "lootType": "item",
+                              "item": "minecraft:goat_horn",
+                              "count": 1,
+                              "nbt": "{components:{\"minecraft:instrument\":\"minecraft:dream_goat_horn\"}}"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "lootType": "repeat",
+            "min": 0,
+            "max": 3,
+            "entry": {
+              "lootType": "empty",
+              "type": "item"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

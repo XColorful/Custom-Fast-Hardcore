@@ -1,0 +1,25 @@
+[
+  {
+    "id": 0,
+    "name": "Golden Spiral 1000 x 1000 (80%)",
+    "color": "#FFFFFFAA",
+    "preZoneCenterOffset": 0,
+    "entry": {
+      "spawnType": "teleport",
+      "spawnShapeType": "circle",
+      "center": "0.000000,64.000000,0.000000",
+      "dimension": "500.000000,0.000000,500.000000",
+      "detailType": "distributed",
+      "teamTogether": true,
+      "findGround": true,
+      "randomRange": 8.0,
+      "hangTime": 100,
+      "useGoldenSpiral": true,
+      "fixedSimulationCount": 8,
+      "playerFactorContribution": 0.2,
+      "allowOnBorder": true,
+      "globalShrinkRatio": 0.8,
+      "needShuffle": true
+    }
+  }
+]

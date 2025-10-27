@@ -1,0 +1,89 @@
+{
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "forge-52.1.6",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "CFHC forge1.21.1",
+  "version": "0.4.5",
+  "author": "",
+  "files": [
+    {
+      "projectID": 220318,
+      "fileID": 6631071,
+      "required": true
+    },
+    {
+      "projectID": 1367517,
+      "fileID": 7142994,
+      "required": true
+    },
+    {
+      "projectID": 615352,
+      "fileID": 6563434,
+      "required": true
+    },
+    {
+      "projectID": 485681,
+      "fileID": 6383259,
+      "required": true
+    },
+    {
+      "projectID": 915115,
+      "fileID": 5550392,
+      "required": true
+    },
+    {
+      "projectID": 532727,
+      "fileID": 6201527,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 6689204,
+      "required": true
+    },
+    {
+      "projectID": 955399,
+      "fileID": 5660738,
+      "required": true
+    },
+    {
+      "projectID": 915324,
+      "fileID": 6792381,
+      "required": true
+    },
+    {
+      "projectID": 858542,
+      "fileID": 5831691,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 5437297,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 6368975,
+      "required": true
+    },
+    {
+      "projectID": 563928,
+      "fileID": 6054945,
+      "required": true
+    },
+    {
+      "projectID": 1277855,
+      "fileID": 7151230,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
