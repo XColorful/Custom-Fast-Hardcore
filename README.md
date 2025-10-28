@@ -2,6 +2,11 @@
 
 消除垃圾时间，来一场“快速硬核生存竞技”
 
+- 初始化游戏：`/cbr game init`
+- 切换地图中心：`/cbr game offset [x] 0 [z]`
+- 加入队伍：`/cbr team join [teamId]`
+- 开始游戏：`/cbr game start`
+
 ## 核心特色
 
 - 极致轻量：整合包模组不到30个，使用Chunky预生成8000x8000地图仅需2小时
