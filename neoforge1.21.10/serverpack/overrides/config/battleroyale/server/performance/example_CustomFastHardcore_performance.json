@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Default performance",
+    "color": "#FFFFFF",
+    "generator": {
+      "common": {
+        "lootAnyBlockEntity": true,
+        "lootVanillaChest": true,
+        "removeLootTable": false,
+        "cleanCachedChunk": false,
+        "removeNoGameidEntity": false,
+        "vanillaWhiteList": [],
+        "vanillaBlackList": []
+      },
+      "normal": {
+        "maxNormalTickLootChunk": 2000
+      },
+      "game": {
+        "maxGameTickLootChunk": 2000,
+        "maxLootDistance": 20,
+        "bfsTolerantCenterDistance": 3,
+        "maxCachedCenter": 1500,
+        "maxQueuedChunk": 50000,
+        "bfsFrequency": 100,
+        "instantNextBfs": false,
+        "maxCachedLootChunk": 100000,
+        "cleanCachedChunk": 10000
+      }
+    }
+  }
+]

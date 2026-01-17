@@ -1,54 +1,69 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.4.5",
+  "versionId": "0.4.6",
   "name": "CFHC forge1.21.1",
   "summary": "",
   "files": [
     {
-      "path": "mods/Searchables-forge-1.21.1-1.0.2.jar",
+      "path": "mods/journeymap-forge-1.21.1-6.0.0-beta.53.jar",
       "hashes": {
-        "sha512": "c20eee4be60e42c058297c8adfb316c6362cd6e9032043940f7714e919e242b67a5d7c0c7979329abf0fb32273bf9a994a2832460028c7c8a4301dbeca971412",
-        "sha1": "2391386cd4d5ad73d9e5f88827c34348a0c80ae7"
+        "sha1": "98458d3f937069ce65e15ed88e4890a0bdaccf86",
+        "sha512": "902c98f0cdb63c8788fbf272c32b8c8a91a32fc945b646a1c6c5862a11b664b543df9a09ad0331883e79d12aae7c3febc2ad59183d38946b8c12ca538c357628"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/fuuu3xnx/versions/lfKshk9l/Searchables-forge-1.21.1-1.0.2.jar"
+        "https://cdn.modrinth.com/data/lfHFW1mp/versions/oDlTqqFj/journeymap-forge-1.21.1-6.0.0-beta.53.jar"
       ],
-      "fileSize": 76949
+      "fileSize": 3541865
     },
     {
-      "path": "mods/BiomesOPlenty-forge-1.21.1-21.1.0.12.jar",
+      "path": "mods/cbr-addon-0.4.4-dev3-forge1.21.1.jar",
       "hashes": {
-        "sha1": "11bb279e8e9093053f0ac65740bc1c7cb1bd6376",
-        "sha512": "68246d069b27b536e83d0c7b19ee26b8763cd196576245cfeaab56c89b1da9e724aaa46f32ac8596990d5b9fa345203aee9b345b2be2df6f1807cf47ac666af3"
+        "sha1": "214b182c953e71fb43d9f3885e9bf5ccd1bc7082",
+        "sha512": "50e57dcfd98f447b807907c3a02c5ec8c27ef2085969542b6255850059ab3b148f2213330ddde2b7fd4d277330cd37c2025126433ec5f7bcb9d076d3349d38b1"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/HXF82T3G/versions/bRWJ41ym/BiomesOPlenty-forge-1.21.1-21.1.0.12.jar"
+        "https://cdn.modrinth.com/data/UXMucnTT/versions/y8YNmoNT/cbr-addon-0.4.4-dev3-forge1.21.1.jar"
       ],
-      "fileSize": 22312094
+      "fileSize": 267671
     },
     {
-      "path": "mods/GlitchCore-forge-1.21.1-2.1.0.0.jar",
+      "path": "mods/formations-1.0.2-forge-mc1.21.jar",
       "hashes": {
-        "sha1": "d9b4cc9e6649a63a4619da451c98c7542c2fe60b",
-        "sha512": "babe10672ac4e2cf1d84cbebe172481647eb6be5474bc35d125e9070bf967c04944c135117d34f14eb181ab02c0df0e34faf8891f1fb791dfcc58093c3c3c6ff"
+        "sha512": "50ade16fbbd4a4ff4392a9debbd81205285561be0eee3071bc6d4c19a5707d3f638b93e17d5ad9fe9ddfce84cf68466ab12b02844e557408b479b8d1f8a189c1",
+        "sha1": "dcebfdcbc0a71d08e9b8f95d09d918e7f395fa1e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/s3dmwKy5/versions/PCy0sobG/GlitchCore-forge-1.21.1-2.1.0.0.jar"
+        "https://cdn.modrinth.com/data/tPe4xnPd/versions/xk9zbpzu/formations-1.0.2-forge-mc1.21.jar"
       ],
-      "fileSize": 88478
+      "fileSize": 390669
+    },
+    {
+      "path": "mods/formationsoverworld-1.0.5-mc1.21+.jar",
+      "hashes": {
+        "sha1": "edbc169c78f9f1cdf5233e996f12b21e7e1cdf18",
+        "sha512": "cc1143bab8897f89db2b17e68068bd71ee19814beedde8a6ef4ca6dc1f3ef31828caf0952181730af2ac68f7a44d940b5dbbc9d9f1abe91752ca364f6864a370"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KX1XC0Oo/versions/oDpgbADk/formationsoverworld-1.0.5-mc1.21%2B.jar"
+      ],
+      "fileSize": 873370
     },
     {
       "path": "mods/bettervillage-forge-1.21.1-3.3.1-all.jar",
@@ -66,40 +81,40 @@
       "fileSize": 2612553
     },
     {
-      "path": "mods/journeymap-forge-1.21.1-6.0.0-beta.52.jar",
+      "path": "mods/Controlling-forge-1.21.1-19.0.5.jar",
       "hashes": {
-        "sha512": "35d08b2e128352e3563afcfc6e5fd3f22637b7eb396eb157fe69999c118ba5e2066fe55a9dbe886caa67562c434ec332545ab4950519d38ab1f01920657cfe52",
-        "sha1": "81b331d26eafafc566e037275f8501ae5d965ed4"
+        "sha1": "8ee8e01b99fb64e911b8b8d998d366e1e1439646",
+        "sha512": "1f9749eab32df12c001a013b7323b6c32ef6dc1e7855cae2ad07cc222411bc463919c9f49d5a93fb6c26ca818ca9c2decdd33fd229106119fc9abd7dfe9f8870"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/lfHFW1mp/versions/QmE0pYFa/journeymap-forge-1.21.1-6.0.0-beta.52.jar"
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/hEd43o3z/Controlling-forge-1.21.1-19.0.5.jar"
       ],
-      "fileSize": 3540677
+      "fileSize": 76041
     },
     {
-      "path": "mods/formationsoverworld-1.0.5-mc1.21+.jar",
+      "path": "mods/battleroyale-0.4.6-forge1.21.1.jar",
       "hashes": {
-        "sha512": "cc1143bab8897f89db2b17e68068bd71ee19814beedde8a6ef4ca6dc1f3ef31828caf0952181730af2ac68f7a44d940b5dbbc9d9f1abe91752ca364f6864a370",
-        "sha1": "edbc169c78f9f1cdf5233e996f12b21e7e1cdf18"
+        "sha1": "406e83743abea233336b8f8d1ec3299c4cd9498a",
+        "sha512": "af84d73441152e03741211c14f4ae78de63baea63c146eaa3557e8f1fe314aa385d03e47b13e3543c63043bd6ba7138753df88deccff5c4af692e51307b23e0d"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/KX1XC0Oo/versions/oDpgbADk/formationsoverworld-1.0.5-mc1.21%2B.jar"
+        "https://cdn.modrinth.com/data/5cs8CYZE/versions/DmUhuKiB/battleroyale-0.4.6-forge1.21.1.jar"
       ],
-      "fileSize": 873370
+      "fileSize": 1703991
     },
     {
       "path": "mods/libraryferret-forge-1.21.1-4.0.0.jar",
       "hashes": {
-        "sha512": "ee708d2989df3a804c648182f95fc167a13d7991de78fe276e047949b14382dcb433019226ea2db0c16831e516c5713cf3cb9a058561373b9d977a84bf70119e",
-        "sha1": "ad662a732cae4aaca95844c18e2ed824828aaa0d"
+        "sha1": "ad662a732cae4aaca95844c18e2ed824828aaa0d",
+        "sha512": "ee708d2989df3a804c648182f95fc167a13d7991de78fe276e047949b14382dcb433019226ea2db0c16831e516c5713cf3cb9a058561373b9d977a84bf70119e"
       },
       "env": {
         "client": "required",
@@ -109,51 +124,6 @@
         "https://cdn.modrinth.com/data/DOB2l4oJ/versions/ECQtFd4X/libraryferret-forge-1.21.1-4.0.0.jar"
       ],
       "fileSize": 139416
-    },
-    {
-      "path": "mods/cbr-addon-0.4.4-dev3-forge1.21.1.jar",
-      "hashes": {
-        "sha512": "50e57dcfd98f447b807907c3a02c5ec8c27ef2085969542b6255850059ab3b148f2213330ddde2b7fd4d277330cd37c2025126433ec5f7bcb9d076d3349d38b1",
-        "sha1": "214b182c953e71fb43d9f3885e9bf5ccd1bc7082"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/UXMucnTT/versions/y8YNmoNT/cbr-addon-0.4.4-dev3-forge1.21.1.jar"
-      ],
-      "fileSize": 267671
-    },
-    {
-      "path": "mods/TerraBlender-forge-1.21.1-4.1.0.8.jar",
-      "hashes": {
-        "sha512": "06a3572205042df7a950512617a42ffdb10b4b102d7f8c1a9ca8a541bc5b40bedcccdf5600bd66abc1a789067d063c77115448f16f682dd0cd924f29c0f2411e",
-        "sha1": "3039a157d398ec8e4039ef132e118fa26f1618b1"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/kkmrDlKT/versions/GYvJwlAJ/TerraBlender-forge-1.21.1-4.1.0.8.jar"
-      ],
-      "fileSize": 120303
-    },
-    {
-      "path": "mods/battleroyale-0.4.5-forge1.21.1.jar",
-      "hashes": {
-        "sha512": "eb992cd278530f38dadd9466dcac8769bcde191d1ab81d946ef2d6ea25c7e4c4a2f848ecf57a1172aaffa3e9201a0e188d6805df263ffea99d080d3269a9821a",
-        "sha1": "c8120952f39e50f74d8a7acbc52034cc82d7db0a"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/5cs8CYZE/versions/nfWYKZLn/battleroyale-0.4.5-forge1.21.1.jar"
-      ],
-      "fileSize": 1634886
     },
     {
       "path": "mods/Chunky-Forge-1.4.23.jar",
@@ -171,10 +141,70 @@
       "fileSize": 335743
     },
     {
+      "path": "mods/TerraBlender-forge-1.21.1-4.1.0.8.jar",
+      "hashes": {
+        "sha1": "3039a157d398ec8e4039ef132e118fa26f1618b1",
+        "sha512": "06a3572205042df7a950512617a42ffdb10b4b102d7f8c1a9ca8a541bc5b40bedcccdf5600bd66abc1a789067d063c77115448f16f682dd0cd924f29c0f2411e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kkmrDlKT/versions/GYvJwlAJ/TerraBlender-forge-1.21.1-4.1.0.8.jar"
+      ],
+      "fileSize": 120303
+    },
+    {
+      "path": "mods/BiomesOPlenty-forge-1.21.1-21.1.0.13.jar",
+      "hashes": {
+        "sha1": "e0af56e482746aa13fe0359d62fbcfcc54462396",
+        "sha512": "262430cacc25df7f65330aa965f3d7afe44363357182c1873349bd263fb715f3bd5534f15228ddcc4c5d1bb6ac21949b0c8232662020df7f4ecb26ca7f9f1811"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HXF82T3G/versions/xrGuQK0E/BiomesOPlenty-forge-1.21.1-21.1.0.13.jar"
+      ],
+      "fileSize": 22312007
+    },
+    {
+      "path": "mods/GlitchCore-forge-1.21.1-2.1.0.0.jar",
+      "hashes": {
+        "sha512": "babe10672ac4e2cf1d84cbebe172481647eb6be5474bc35d125e9070bf967c04944c135117d34f14eb181ab02c0df0e34faf8891f1fb791dfcc58093c3c3c6ff",
+        "sha1": "d9b4cc9e6649a63a4619da451c98c7542c2fe60b"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/s3dmwKy5/versions/PCy0sobG/GlitchCore-forge-1.21.1-2.1.0.0.jar"
+      ],
+      "fileSize": 88478
+    },
+    {
+      "path": "mods/Searchables-forge-1.21.1-1.0.2.jar",
+      "hashes": {
+        "sha512": "c20eee4be60e42c058297c8adfb316c6362cd6e9032043940f7714e919e242b67a5d7c0c7979329abf0fb32273bf9a994a2832460028c7c8a4301dbeca971412",
+        "sha1": "2391386cd4d5ad73d9e5f88827c34348a0c80ae7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/lfKshk9l/Searchables-forge-1.21.1-1.0.2.jar"
+      ],
+      "fileSize": 76949
+    },
+    {
       "path": "mods/MouseTweaks-forge-mc1.21-2.26.jar",
       "hashes": {
-        "sha1": "e1053f8c607714f5afc868d286e3155531763f3a",
-        "sha512": "c7566a234ed1bee1c4f03652325eb0faf174ff0669f0399cfabc0bc49509fa6d1187d55c03de397c135ae20fc5f9efedf659a50b3e65cd5a690fcd25af7d49c2"
+        "sha512": "c7566a234ed1bee1c4f03652325eb0faf174ff0669f0399cfabc0bc49509fa6d1187d55c03de397c135ae20fc5f9efedf659a50b3e65cd5a690fcd25af7d49c2",
+        "sha1": "e1053f8c607714f5afc868d286e3155531763f3a"
       },
       "env": {
         "client": "required",
@@ -184,40 +214,10 @@
         "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9IcJV4UJ/MouseTweaks-forge-mc1.21-2.26.jar"
       ],
       "fileSize": 73287
-    },
-    {
-      "path": "mods/Controlling-forge-1.21.1-19.0.5.jar",
-      "hashes": {
-        "sha512": "1f9749eab32df12c001a013b7323b6c32ef6dc1e7855cae2ad07cc222411bc463919c9f49d5a93fb6c26ca818ca9c2decdd33fd229106119fc9abd7dfe9f8870",
-        "sha1": "8ee8e01b99fb64e911b8b8d998d366e1e1439646"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/xv94TkTM/versions/hEd43o3z/Controlling-forge-1.21.1-19.0.5.jar"
-      ],
-      "fileSize": 76041
-    },
-    {
-      "path": "mods/formations-1.0.2-forge-mc1.21.jar",
-      "hashes": {
-        "sha1": "dcebfdcbc0a71d08e9b8f95d09d918e7f395fa1e",
-        "sha512": "50ade16fbbd4a4ff4392a9debbd81205285561be0eee3071bc6d4c19a5707d3f638b93e17d5ad9fe9ddfce84cf68466ab12b02844e557408b479b8d1f8a189c1"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/tPe4xnPd/versions/xk9zbpzu/formations-1.0.2-forge-mc1.21.jar"
-      ],
-      "fileSize": 390669
     }
   ],
   "dependencies": {
-    "minecraft": "1.21.1",
-    "forge": "52.1.6"
+    "forge": "52.1.6",
+    "minecraft": "1.21.1"
   }
 }

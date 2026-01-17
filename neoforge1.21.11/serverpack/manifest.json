@@ -3,15 +3,15 @@
     "version": "1.21.11",
     "modLoaders": [
       {
-        "id": "neoforge-21.11.13-beta",
+        "id": "neoforge-21.11.33-beta",
         "primary": true
       }
     ]
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "CFHC neoforge1.21.11",
-  "version": "0.4.6-1",
+  "name": "CFHC server neoforge1.21.11",
+  "version": "0.4.6-21.11.33",
   "author": "",
   "files": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "projectID": 266890,
-      "fileID": 7321003,
+      "fileID": 7454099,
       "required": true,
       "isLocked": false
     },
@@ -34,7 +34,13 @@
     },
     {
       "projectID": 495476,
-      "fileID": 7357960,
+      "fileID": 7436985,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 485681,
+      "fileID": 7315299,
       "required": true,
       "isLocked": false
     },
@@ -45,20 +51,20 @@
       "isLocked": false
     },
     {
-      "projectID": 1277855,
-      "fileID": 7328646,
+      "projectID": 936015,
+      "fileID": 7395057,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 936015,
-      "fileID": 7375421,
+      "projectID": 1277855,
+      "fileID": 7468803,
       "required": true,
       "isLocked": false
     },
     {
       "projectID": 257814,
-      "fileID": 7320867,
+      "fileID": 7454088,
       "required": true,
       "isLocked": false
     },
@@ -69,14 +75,14 @@
       "isLocked": false
     },
     {
-      "projectID": 955399,
-      "fileID": 7335721,
+      "projectID": 915324,
+      "fileID": 6792381,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 915324,
-      "fileID": 6792381,
+      "projectID": 955399,
+      "fileID": 7335721,
       "required": true,
       "isLocked": false
     },
@@ -93,14 +99,14 @@
       "isLocked": false
     },
     {
-      "projectID": 32274,
-      "fileID": 7314487,
+      "projectID": 1337167,
+      "fileID": 7365546,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 1337167,
-      "fileID": 7365546,
+      "projectID": 32274,
+      "fileID": 7390713,
       "required": true,
       "isLocked": false
     },
@@ -124,7 +130,19 @@
     },
     {
       "projectID": 220318,
-      "fileID": 7352930,
+      "fileID": 7454388,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 60089,
+      "fileID": 7323622,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 623908,
+      "fileID": 7415152,
       "required": true,
       "isLocked": false
     },

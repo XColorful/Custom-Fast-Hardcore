@@ -11,138 +11,170 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CFHC forge1.20.1",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "author": "",
   "files": [
     {
       "projectID": 1277855,
-      "fileID": 7151102,
-      "required": true
+      "fileID": 7467997,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 955399,
+      "fileID": 5787839,
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 1367517,
       "fileID": 7140833,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 250398,
       "fileID": 4646682,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 856996,
       "fileID": 5869180,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 220318,
-      "fileID": 4617259,
-      "required": true
+      "fileID": 6364065,
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 266890,
       "fileID": 6048921,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 257814,
       "fileID": 6383884,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 915324,
       "fileID": 6792379,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 563928,
       "fileID": 6290448,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 858542,
       "fileID": 5284015,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 656977,
-      "fileID": 7120789,
-      "required": true
+      "fileID": 7311820,
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 790626,
-      "fileID": 6837713,
-      "required": true
+      "fileID": 7306749,
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 908741,
       "fileID": 5681725,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 936015,
       "fileID": 6742615,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 1337167,
-      "fileID": 7035758,
-      "required": true
+      "fileID": 7238548,
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 623908,
       "fileID": 6459777,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 485681,
       "fileID": 5320028,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 368293,
       "fileID": 6797349,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 615352,
       "fileID": 6563409,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 915115,
       "fileID": 6789339,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 60089,
       "fileID": 5338457,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 626761,
       "fileID": 4923828,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 495476,
       "fileID": 6918565,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 532727,
       "fileID": 4601234,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 32274,
       "fileID": 5789363,
-      "required": true
+      "required": true,
+      "isLocked": false
     },
     {
       "projectID": 351441,
       "fileID": 4613538,
-      "required": true
+      "required": true,
+      "isLocked": false
     }
   ],
   "overrides": "overrides"
