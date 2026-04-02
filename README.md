@@ -1,3 +1,7 @@
+# 自定义超限速大逃杀 | Custom Fast Hardcore
+
+[中文](#自定义超限速大逃杀) | [English](#custom-fast-hardcore)
+
 # 自定义超限速大逃杀
 
 消除垃圾时间，来一场“快速硬核生存竞技”
@@ -69,6 +73,82 @@
 - Pick Up Notifier by Fuzs
 
 ### 优化模组
+
+- Embeddium by FiniteReality
+- ModernFix by embeddedt
+- Sodium by JellySquid
+
+# Custom Fast Hardcore
+
+Eliminate downtime for a "Fast-Paced Hardcore Survival Arena" experience.
+
+- Initialize came: `/cbr game init`
+- Change map center: `/cbr game offset [x] 0 [z]`
+- Join team: `/cbr team join [teamId]`
+- Start game: `/cbr game start`
+
+## Core Features
+
+- Ultra-Lightweight: The modpack has less than 30 mods; pre-generating an 8000x8000 map with Chunky only takes 2 hours.
+- Looting + Vanilla Progression: Scavenge for supplies in the abundant villages or quickly head underground for mining.
+- Everything is Fast: Starting gear + a "Godspeed Pickaxe" + dense villages eliminate most "downtime," making the total game duration 25 minutes.
+- Safe Start: Spawn points distributed in a Golden Spiral pattern + a 30-second invincibility period for all players at the start, preventing "spawn-killing".
+
+### Key Advantages
+
+- Zone Mechanism: Native client-side support for non-vanilla boundary shapes like circular and spherical zone detection and rendering.
+- Fast-Paced: 25-minute rounds, initial acceleration, very low system requirements, compatible with short play sessions.
+- Framework Extensibility: The modpack includes highly customizable configuration files, allowing it to be quickly converted to other PvP forms like gunplay or magic by adding extra mods.
+- Backward Compatibility: Can be reverted to UHC by using regular polygon rendering, extending the shrink time, reducing structure density, and cancelling loot generations.
+
+## Game Flow
+
+The game area is a circle with a radius of 500. The zone shrinks in 5 stages, each lasting 5 minutes:
+- Initial Phase: Players spawn within a radius of 400. The boundary radius shrinks from 500 to 400.
+- Phase 2/3/4: At the start of the stage, a Bombing Zone + Supply Drop Zone are generated. The center of these zones is attracted by the collective center point of all remaining living players.
+- Phase 5: The safe zone changes from a circle to a sphere and gradually shrinks its radius, bringing underground players back to the surface.
+
+### Detailed Explanation
+
+- Starting Gear (9 slots): Efficiency X Unbreaking III Wooden Axe, Efficiency X Unbreaking III Iron Pickaxe, Cherry Wood Planks x64, Basalt x64, Ender Pearl, Crafting Table, Furnace, Torch x16, Campfire x3.
+- The Bombing Zone continuously expands its radius for 30 seconds, generating 10 random TNT explosions per second, followed by 60 seconds of random supply drops.
+- Spawned loot has low durability, while items crafted from mined resources have full durability.
+- All containers are subject to loot refresh, covering Nether and End items.
+- The Phase 5 Sphere starts at the collective center of all remaining living players, constantly shrinking and moving towards (0, 64, 0).
+
+## Modpack Contents
+
+Sorted by name
+
+### Battle Royale Mechanism
+
+- CBR addon by XiaoColorful
+- Custom BattleRoyale by XiaoColorful
+
+### World Generation
+
+- Better Villages by jtl_elisa, jtl_tom
+- Biomes O' Plenty by Forstride, TheAdubbz
+- ChoiceTheorem's Overhauled Village by ChoiceTheorem
+- Chunky by pop4959
+- Formations Overworld by SuperMartjin642
+- GlitchCore by TheAdubbz
+- MVS - Moog's Voyager Structures by finndog_123, olver___\_, havococcultist, TFA120
+- Repurposed Structures by telopathicgrunt
+- Towns and Towers by Biban_Auriu, Kubek
+
+### Gameplay Extension
+
+- JourneyMap by techbrew, Mysticdrew, meme_sapiens
+- PlayerRevive by CreativeMD
+
+### Utility Mods
+
+- Controlling by Jaredlll08
+- Mouse Tweaks by YaLTeR
+- Pick Up Notifier by Fuzs
+
+### Optimization Mods
 
 - Embeddium by FiniteReality
 - ModernFix by embeddedt
