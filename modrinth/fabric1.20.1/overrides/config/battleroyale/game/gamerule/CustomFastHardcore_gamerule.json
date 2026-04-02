@@ -32,10 +32,11 @@
       "doDaylightCycle": true,
       "doWeatherCycle": true,
       "fallDamage": true,
-      "tntExplodes": true,
+      "tntExplosionDropDecay": true,
       "spectatorGenerateChunks": false,
-      "clearInventory": true,
+      "clearInventoryAtStart": true,
       "keepInventory": false,
+      "doImmediateRespawn": false,
       "doTimeSet": true,
       "timeSet": 0
     },
@@ -98,9 +99,16 @@
       "winnerFireworkId": 0,
       "winnerParticleId": 0,
       "initGameAfterGame": false,
+      "restartAfterGame": false,
+      "restartDelay": 20,
+      "maxRestartRound": 15,
       "messageCleanFrequency": 140,
       "messageExpireTime": 100,
       "messageSyncFrequency": 100
+    },
+    "extraRule": {
+      "protocol": "",
+      "jsonTag": {}
     }
   }
 ]

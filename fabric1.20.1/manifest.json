@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CFHC fabric1.20.1",
-  "version": "0.4.6",
+  "version": "0.5.3",
   "author": "",
   "files": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 6797350,
+      "fileID": 7672001,
       "required": true,
       "isLocked": false
     },
@@ -75,14 +75,14 @@
       "isLocked": false
     },
     {
-      "projectID": 60089,
-      "fileID": 5230279,
+      "projectID": 1337167,
+      "fileID": 7238547,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 1337167,
-      "fileID": 7238547,
+      "projectID": 60089,
+      "fileID": 5230279,
       "required": true,
       "isLocked": false
     },
@@ -112,7 +112,7 @@
     },
     {
       "projectID": 1277855,
-      "fileID": 7467997,
+      "fileID": 7854909,
       "required": true,
       "isLocked": false
     },
@@ -142,7 +142,7 @@
     },
     {
       "projectID": 656977,
-      "fileID": 7311820,
+      "fileID": 7517593,
       "required": true,
       "isLocked": false
     },
@@ -154,7 +154,7 @@
     },
     {
       "projectID": 1367517,
-      "fileID": 7140833,
+      "fileID": 7855864,
       "required": true,
       "isLocked": false
     },
@@ -177,20 +177,20 @@
       "isLocked": false
     },
     {
-      "projectID": 1295823,
-      "fileID": 7244572,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 351441,
       "fileID": 4613539,
       "required": true,
       "isLocked": false
     },
     {
+      "projectID": 1295823,
+      "fileID": 7854655,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 308769,
-      "fileID": 7340876,
+      "fileID": 7815918,
       "required": true,
       "isLocked": false
     },
