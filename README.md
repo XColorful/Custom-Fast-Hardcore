@@ -4,12 +4,16 @@
 
 # 自定义超限速大逃杀
 
+💡[快速入门](https://github.com/XColorful/Custom-BattleRoyale-Complete/wiki/Quick-start-guide) | 😎[wiki](https://github.com/XColorful/Custom-Fast-Hardcore/wiki) | 📄[docs](https://github.com/XColorful/Custom-Fast-Hardcore/tree/HEAD/docs)
+
 消除垃圾时间，来一场“快速硬核生存竞技”
 
 - 初始化游戏：`/cbr game init`
 - 切换地图中心：`/cbr game offset [x] 0 [z]`
 - 加入队伍：`/cbr team join [teamId]`
 - 开始游戏：`/cbr game start`
+
+⭐**创造模式下右键`木剑`以启用整合包功能！**
 
 ## 核心特色
 
@@ -80,12 +84,16 @@
 
 # Custom Fast Hardcore
 
+💡[Quick start guide](https://github.com/XColorful/Custom-BattleRoyale-Complete/wiki/Quick-start-guide#English) | 😎[wiki](https://github.com/XColorful/Custom-Fast-Hardcore/wiki#English) | 📄[docs](https://github.com/XColorful/Custom-Fast-Hardcore/tree/HEAD/docs)
+
 Eliminate downtime for a "Fast-Paced Hardcore Survival Arena" experience.
 
 - Initialize came: `/cbr game init`
 - Change map center: `/cbr game offset [x] 0 [z]`
 - Join team: `/cbr team join [teamId]`
 - Start game: `/cbr game start`
+
+⭐**Right-click `wooden sword` in creative mode to enable modpack's function!**
 
 ## Core Features
 

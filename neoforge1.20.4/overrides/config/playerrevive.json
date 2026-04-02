@@ -4,7 +4,7 @@
     "bleedTime": 1200,
     "triggerForCreative": true,
     "bleedingMessage": false,
-    "bleedingMessageTrackingOnly": true,
+    "bleedingMessageTrackingOnly": false,
     "shouldGlow": false,
     "bleedingEffects": [
       {
@@ -16,15 +16,19 @@
     ],
     "affectHunger": true,
     "remainingHunger": 6,
-    "initialDamageCooldown": 100,
+    "initialDamageCooldown": 30,
     "bleedingHealth": 20,
-    "disableMobDamage": false,
+    "disableMobDamage": true,
     "disablePlayerDamage": false,
     "disableOtherDamage": false,
     "hasShaderEffect": true,
     "changePermissionLevel": false,
     "permissionLevel": 0,
-    "canBePushed": true
+    "canBePushed": true,
+    "disableAllGUIAccess": false,
+    "disableInventoryAccess": true,
+    "disableChatAccess": false,
+    "disableServerCommands": false
   },
   "revive": {
     "requiredReviveProgress": 100.0,
@@ -49,12 +53,12 @@
   },
   "sounds": {
     "death": {
-      "sound": "playerrevive:death",
+      "sound": "",
       "volume": 1.0,
       "pitch": 1.0
     },
     "revived": {
-      "sound": "playerrevive:revived",
+      "sound": "",
       "volume": 1.0,
       "pitch": 1.0
     }
@@ -63,7 +67,8 @@
     "gorgon",
     "death.attack.sgcraft:transient",
     "death.attack.sgcraft:iris",
-    "vampirism_dbno"
+    "vampirism_dbno",
+    "hordes:infection"
   ],
   "bleedInSingleplayer": false
 }

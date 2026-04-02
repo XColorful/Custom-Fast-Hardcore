@@ -16,9 +16,9 @@
     ],
     "affectHunger": true,
     "remainingHunger": 6,
-    "initialDamageCooldown": 100,
+    "initialDamageCooldown": 30,
     "bleedingHealth": 20,
-    "disableMobDamage": false,
+    "disableMobDamage": true,
     "disablePlayerDamage": false,
     "disableOtherDamage": false,
     "hasShaderEffect": true,
@@ -26,7 +26,7 @@
     "permissionLevel": 0,
     "canBePushed": true,
     "disableAllGUIAccess": false,
-    "disableInventoryAccess": false,
+    "disableInventoryAccess": true,
     "disableChatAccess": false,
     "disableServerCommands": false
   },
@@ -53,12 +53,12 @@
   },
   "sounds": {
     "death": {
-      "sound": "playerrevive:death",
+      "sound": "",
       "volume": 1.0,
       "pitch": 1.0
     },
     "revived": {
-      "sound": "playerrevive:revived",
+      "sound": "",
       "volume": 1.0,
       "pitch": 1.0
     }
